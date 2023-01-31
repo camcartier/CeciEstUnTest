@@ -1,0 +1,29 @@
+https://www.aidedd.org/dnd/monstres.php?vf=esprit-d-ombre
+Esprit d'ombre
+[ Shadow Spirit ]
+Monstruosité de taille M, -
+Classe d'armure 11 + le niveau du sort (armure naturelle)
+Points de vie 35 + 15 pour chaque niveau de sort supérieur au niveau 3
+Vitesse 12 m
+FOR
+13 (+1)DEX
+16 (+3)CON
+15 (+2)INT
+4 (-3)SAG
+10 (+0)CHA
+16 (+3)
+Résistances aux dégâts nécrotique
+Immunités aux états effrayé
+Sens vision dans le noir 36 m, Perception passive 10
+Langues comprend les langues que vous parlez
+Puissance -     Bonus de maîtrise égal à votre bonus
+Frénésie de la terreur (Fureur uniquement).
+Poids du chagrin (Désespoir uniquement).
+Actions
+Attaques multiples.
+Cri épouvantable (1/jour).
+Actions bonus
+Discrétion dans les ombres (Peur uniquement).
+Le bloc de stat complet de cette créature n'est pas disponible (non OGL).
+
+Voir le sort convocation de rejeton d'ombre.

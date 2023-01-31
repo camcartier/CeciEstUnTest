@@ -1,0 +1,29 @@
+https://www.aidedd.org/dnd/monstres.php?vf=githzerai-moine
+Githzerai, moine
+[ Githzerai Monk ]
+Humanoïde (gith) de taille M, loyal neutre
+Classe d'armure 14
+Points de vie 38 (7d8 + 7)
+Vitesse 9 m
+FOR
+12 (+1)DEX
+15 (+2)CON
+12 (+1)INT
+13 (+1)SAG
+14 (+2)CHA
+10 (+0)
+Jets de sauvegarde For +3, Dex +4, Int +3, Sag +4
+Compétences Intuition +4, Perception +4
+Sens Perception passive 14
+Langues gith
+Puissance 2 (450 PX)
+Incantation innée (psioniques). La caractéristique d'incantation innée du githzerai est la Sagesse. Il peut lancer les sorts suivants de manière innée, sans avoir besoin d'aucune composante :
+
+À volonté : main de mage (la main est invisible)
+3/jour chacun : feuille morte, saut, voir l'invisible, bouclier
+Défense psychique. Tant que le githzerai ne porte pas d'armure et ne tient aucun bouclier, sa CA prend en compte son modificateur de Sagesse.
+
+Actions
+Attaques multiples. Le githzerai effectue deux attaques à mains nues.
+
+Attaque à mains nues. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 6 (1d8 + 2) dégâts contondants + 9 (2d8) dégâts psychiques. C'est une attaque avec une arme magique.

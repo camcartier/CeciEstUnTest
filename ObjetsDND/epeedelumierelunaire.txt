@@ -1,0 +1,7 @@
+Épée de lumière lunaire
+[ Moon-touched Sword ]
+Arme (toute épée), commun
+Dans les ténèbres, la lame dégainée de cette épée diffuse 
+une lumière de clair de lune, créant une lumière vive 
+dans un rayon de 4,50 mètres et une lumière faible sur 9 mètres supplémentaires.
+https://www.aidedd.org/dnd/om.php?vf=epee-de-lumiere-lunaire

@@ -1,0 +1,24 @@
+https://www.aidedd.org/dnd/monstres.php?vf=cultiste
+Cultiste
+[ Cultist ] [ Membre de secte ]
+Humanoïde (toute race) de taille M, tout alignement non bon
+Classe d'armure 12 (armure de cuir)
+Points de vie 9 (2d8)
+Vitesse 9 m
+FOR
+11 (+0)DEX
+12 (+1)CON
+10 (+0)INT
+10 (+0)SAG
+11 (+0)CHA
+10 (+0)
+Compétences Religion +2, Tromperie +2
+Sens Perception passive 10
+Langues une langue au choix (généralement le commun)
+Puissance 1/8 (25 PX)
+Sombre dévotion. Le cultiste a un avantage aux jets de sauvegarde pour ne pas être charmé ou effrayé.
+
+Actions
+Cimeterre. Attaque au corps à corps avec une arme : +3 au toucher, allonge 1,50 m, une créature. Touché : 4 (1d6 + 1) dégâts tranchants.
+
+Les cultistes prêtent allégeance à un sombre pouvoir tel qu'un prince élémentaire, un seigneur démoniaque ou un diable majeur. La plupart dissimulent leur engagement pour éviter d'être ostracisés, emprisonnés ou exécutés en raison de leurs croyances. Contrairement aux acolytes mauvais, les cultistes font souvent montre de signes de folie dans leurs croyances et l'accomplissement de leurs pratiques.

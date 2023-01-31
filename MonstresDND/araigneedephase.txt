@@ -1,0 +1,28 @@
+https://www.aidedd.org/dnd/monstres.php?vf=araignee-de-phase
+Araignée de phase
+[ Phase Spider ]
+Monstruosité de taille G, sans alignement
+Classe d'armure 13 (armure naturelle)
+Points de vie 32 (5d10 + 5)
+Vitesse 9 m, escalade 9 m
+FOR
+15 (+2)DEX
+15 (+2)CON
+12 (+1)INT
+6 (-2)SAG
+10 (+0)CHA
+6 (-2)
+Compétences Discrétion +6
+Sens vision dans le noir 18 m, Perception passive 10
+Langues —
+Puissance 3 (700 PX)
+Saut éthérée. Par une action bonus, l'araignée peut magiquement passer du plan matériel au plan éthéré, et vice versa.
+
+Pattes d'araignée. L'araignée peut escalader des surfaces difficiles et être au plafond la tête en bas sans avoir besoin d'effectuer un jet de caractéristique.
+
+Déplacement sur la toile. L'araignée ignore les restrictions de mouvement causées par une toile d'araignée.
+
+Actions
+Morsure. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une créature. Touché : 7 (1d10 + 2) dégâts perforants, et la cible doit effectuer un jet de sauvegarde de Constitution DD 11, subissant 18 (4d8) dégâts de poison en cas d'échec, ou la moitié de ces dégâts en cas de réussite. Si les dégâts de poison font tomber la cible à 0 point de vie, celle-ci est stable mais empoisonnée durant 1 heure, même après avoir regagné des points de vie, et est paralysée tant qu'elle est empoisonnée de la sorte.
+
+Une araignée de phase possède la capacité magique de passer du plan matériel au plan éthéré, et vice versa. Elle semble alors apparaître de nulle part et disparaît rapidement après avoir attaqué.

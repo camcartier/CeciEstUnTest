@@ -1,0 +1,14 @@
+Bâton percussif
+[ Staff of Striking ]
+Bâton, très rare (nécessite un lien)
+Ce bâton peut être utilisé comme une arme magique 
+conférant un bonus de +3 aux jets d'attaque et de dégâts effectués avec lui.
+Le bâton possède 10 charges. 
+Lorsque vous touchez lors d'une attaque au corps à corps en l'utilisant, 
+vous pouvez dépenser jusqu'à 3 de ses charges. 
+Pour chaque charge que vous dépensez, la cible subit 
+1d6 dégâts de force supplémentaires. 
+Le bâton récupère 1d6 + 4 charges dépensées chaque jour à l'aube. 
+Si vous dépensez la dernière charge, lancez un d20. 
+Sur un résultat de 1, le bâton devient un simple bâton (arme) non magique.
+https://www.aidedd.org/dnd/om.php?vf=baton-percussif
